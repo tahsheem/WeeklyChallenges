@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/administrator/SuperMo/repos/WeeklyChallenges/ChallengesWithTestsMark8/ChallengesWithTestsMark8.csproj": {}
+    "/Users/administrator/Projects/WeeklyChallenges/ChallengesWithTestsMark8/ChallengesWithTestsMark8.csproj": {}
   },
   "projects": {
-    "/Users/administrator/SuperMo/repos/WeeklyChallenges/ChallengesWithTestsMark8/ChallengesWithTestsMark8.csproj": {
+    "/Users/administrator/Projects/WeeklyChallenges/ChallengesWithTestsMark8/ChallengesWithTestsMark8.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/administrator/SuperMo/repos/WeeklyChallenges/ChallengesWithTestsMark8/ChallengesWithTestsMark8.csproj",
+        "projectUniqueName": "/Users/administrator/Projects/WeeklyChallenges/ChallengesWithTestsMark8/ChallengesWithTestsMark8.csproj",
         "projectName": "ChallengesWithTestsMark8",
-        "projectPath": "/Users/administrator/SuperMo/repos/WeeklyChallenges/ChallengesWithTestsMark8/ChallengesWithTestsMark8.csproj",
+        "projectPath": "/Users/administrator/Projects/WeeklyChallenges/ChallengesWithTestsMark8/ChallengesWithTestsMark8.csproj",
         "packagesPath": "/Users/administrator/.nuget/packages/",
-        "outputPath": "/Users/administrator/SuperMo/repos/WeeklyChallenges/ChallengesWithTestsMark8/obj/",
+        "outputPath": "/Users/administrator/Projects/WeeklyChallenges/ChallengesWithTestsMark8/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/administrator/.config/NuGet/NuGet.Config"

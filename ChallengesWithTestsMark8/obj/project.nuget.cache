@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "B5DH+N5XzAMeocJ1WxN71iLdfmXH8aMzIZFzLVOfvTVEnEXq0YEaGDEFYBp/pMtAocxEoTjSJi62OgGzEvQVqg==",
+  "dgSpecHash": "tqAGBUK6bL2np41sjnl2yAXXOCACArph+JabhH2La+Lls+clP8hIjYBvXLqFgkzU2VwTS9wRZvPt/8byVJuvyg==",
   "success": true,
-  "projectFilePath": "/Users/administrator/SuperMo/repos/WeeklyChallenges/ChallengesWithTestsMark8/ChallengesWithTestsMark8.csproj",
+  "projectFilePath": "/Users/administrator/Projects/WeeklyChallenges/ChallengesWithTestsMark8/ChallengesWithTestsMark8.csproj",
   "expectedPackageFiles": [
     "/Users/administrator/.nuget/packages/microsoft.netcore.app/2.1.0/microsoft.netcore.app.2.1.0.nupkg.sha512",
     "/Users/administrator/.nuget/packages/microsoft.netcore.dotnetapphost/2.1.0/microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
