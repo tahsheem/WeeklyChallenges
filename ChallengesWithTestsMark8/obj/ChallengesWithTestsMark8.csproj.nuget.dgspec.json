@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/michaeldoyle/repos/Mark13/repos/WeeklyChallenges/ChallengesWithTestsMark8/ChallengesWithTestsMark8.csproj": {}
+    "/Users/administrator/SuperMo/repos/WeeklyChallenges/ChallengesWithTestsMark8/ChallengesWithTestsMark8.csproj": {}
   },
   "projects": {
-    "/Users/michaeldoyle/repos/Mark13/repos/WeeklyChallenges/ChallengesWithTestsMark8/ChallengesWithTestsMark8.csproj": {
+    "/Users/administrator/SuperMo/repos/WeeklyChallenges/ChallengesWithTestsMark8/ChallengesWithTestsMark8.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/michaeldoyle/repos/Mark13/repos/WeeklyChallenges/ChallengesWithTestsMark8/ChallengesWithTestsMark8.csproj",
+        "projectUniqueName": "/Users/administrator/SuperMo/repos/WeeklyChallenges/ChallengesWithTestsMark8/ChallengesWithTestsMark8.csproj",
         "projectName": "ChallengesWithTestsMark8",
-        "projectPath": "/Users/michaeldoyle/repos/Mark13/repos/WeeklyChallenges/ChallengesWithTestsMark8/ChallengesWithTestsMark8.csproj",
-        "packagesPath": "/Users/michaeldoyle/.nuget/packages/",
-        "outputPath": "/Users/michaeldoyle/repos/Mark13/repos/WeeklyChallenges/ChallengesWithTestsMark8/obj/",
+        "projectPath": "/Users/administrator/SuperMo/repos/WeeklyChallenges/ChallengesWithTestsMark8/ChallengesWithTestsMark8.csproj",
+        "packagesPath": "/Users/administrator/.nuget/packages/",
+        "outputPath": "/Users/administrator/SuperMo/repos/WeeklyChallenges/ChallengesWithTestsMark8/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "/Users/michaeldoyle/.config/NuGet/NuGet.Config"
+          "/Users/administrator/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp2.1"
